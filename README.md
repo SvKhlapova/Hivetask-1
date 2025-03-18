@@ -20,8 +20,8 @@
 Пример результата:
 
 <pre>
->33.49.147.163	http://lenta.ru/4303000	1189	451	Chrome/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)n	20140101  
->75.208.40.166	http://newsru.com/3330815	60	306	Safari/5.0 (Windows; U; MSIE 9.0; Windows NT 8.1; Trident/5.0; .NET4.0E; en-AU)n	20140101
+33.49.147.163	http://lenta.ru/4303000	1189	451	Chrome/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)n	20140101  
+75.208.40.166	http://newsru.com/3330815	60	306	Safari/5.0 (Windows; U; MSIE 9.0; Windows NT 8.1; Trident/5.0; .NET4.0E; en-AU)n	20140101
 </pre>
 
 ### Исходные данные: логи пользователей
